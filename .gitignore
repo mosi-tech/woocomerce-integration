@@ -1,0 +1,5 @@
+
+appwrite/.env.local
+appwrite/appwrite.json
+appwrite/node_modules
+node_modules
